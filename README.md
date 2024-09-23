@@ -18,6 +18,5 @@ Tracks your ticket Status
 15. once located make sure you are clicked into find what:
 16. then hit space so it replaces all spaces with nothing and all the words can join together
 17. then select Replace All once that is done you can save and close out of it
-18. open up the WorkOrder Tracker.exe
+18. open up the WorkOrderTracker.exe
 19. then you may drag and drop your file into the terminal
-20. be sure to remove " " quotation marks or else it will crash the program
